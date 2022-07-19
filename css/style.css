@@ -3,16 +3,6 @@
 body {
         background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
         background-repeat: no-repeat;
-}
-
-
-
-
-
-body {
-        background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
-        /* background-size: 900px; */
-        background-repeat: no-repeat;
         font-family: 'poppins', roboto;
 }
 
